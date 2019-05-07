@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "902431477875",
+    "firebase_url": "https://otppro-4760c.firebaseio.com",
+    "project_id": "otppro-4760c",
+    "storage_bucket": "otppro-4760c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902431477875:android:09092f0d8309e754",
+        "android_client_info": {
+          "package_name": "com.example.kartik.otp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902431477875-fpv9oknloro6bko9fvkmjldfspag99ef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kartik.otp",
+            "certificate_hash": "1fa18450d426796edf1c1241972a7f753ef8306d"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANoI2i-kugxMW_bMgEkMG1TaoAkjI10Ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902431477875-lko48brpemi5gek9avod3q29n66704bq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
